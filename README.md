@@ -12,7 +12,6 @@ Bu proje, bir API'den kullanıcı verilerini çekerek dinamik kartlar halinde g�
 
 
 - 📌 English
-- 
 Project Description
 This project is a React application that fetches user data from an API and displays it as dynamic cards. It allows filtering users via URL parameters and shows custom alerts for invalid inputs.
 
