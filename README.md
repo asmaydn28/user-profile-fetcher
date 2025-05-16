@@ -1,7 +1,7 @@
 ## 📌 Türkçe
 
 ### Proje Açıklaması
-Bu proje, bir API'den kullanıcı verilerini çekerek dinamik kartlar halinde görüntüleyen bir React uygulamasıdır. Kullanıcıların profillerini filtrelemek için URL parametrelerini kullanır ve hatalı girişlerde özelleştirilmiş uyarılar gösterir.
+Bu proje, bir API'den kullanıcı verilerini çekerek dinamik kartlar halinde görüntüleyen bir uygulamasıdır. Kullanıcıların profillerini filtrelemek için URL parametrelerini kullanır ve hatalı girişlerde özelleştirilmiş uyarılar gösterir.
 
 ### Özellikler
 - ✅ API'den kullanıcı verilerini çekme (JSONPlaceholder gibi).
