@@ -9,7 +9,9 @@ Bu proje, bir API'den kullanıcı verilerini çekerek dinamik kartlar halinde g�
 - 🔍 URL'de `?user=id` parametresi ile filtreleme (Örnek: `?user=3`).
 - ⚠️ Geçersiz ID girildiğinde hata mesajı gösterme (Örnek: `?user=11` veya `?user=abc`).
 - 📝 **"Gönderileri Görüntüle"** butonu ile kullanıcının gönderilerine erişim.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🌐 Live Demo / Canlı Demo https://asimaydin13.netlify.app/
+
 - 📌 English
  
 Project Description
